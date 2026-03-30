@@ -1,5 +1,12 @@
 # Deep Learning Workshop – Course Materials
 
+## Important dates: 
+- 13.04.2026 - evaluation (Notebook 1.)
+- 27.04.2026 - evaluation (Notebook 2.)
+- 04.05.2026 - projects start
+
+
+
 ## 1. Setting Up the Environment
 
 ### 1.1. D10-204 room; using existing conda env (with CUDA)
@@ -116,7 +123,7 @@ source dl_course/bin/activate
 - Each notebook contains:
   - A **baseline implementation** for the topic.
   - Several **exploration directions**, each with **two levels**:
-    - **Basic** – required for all students.  
+    - **Basic** – required for all students (all of directions or some of them, depending on Notebook).  
     - **Deep** – choose **one favorite direction** to explore in depth.  
 - Evaluation will be done through **short discussions**, where you present your findings and conclusions.
 
