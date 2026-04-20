@@ -6,7 +6,7 @@
 - In multi-person teams, responsibilities should be clearly defined (who worked on what).
 
 ### Project scope
-Topics are flexible, but must relate to **deep learning and  and/or CUDA**.
+Topics are flexible, but must relate to **deep learning and/or CUDA**.
 
 Two main directions are recommended:
 
@@ -25,7 +25,7 @@ If you do not have a project idea, feel free to contact me or request a list of 
 These are example directions to help you get started. Your final project should be more specific and clearly defined.
 
 #### 1. Applied Deep Learning
-- Train and evaluate models on more realistic datasets (CIFAR-10/100, ImageNet subsets, text datasets)
+- Train and evaluate models on more realistic datasets (ImageNet subsets, text datasets)
 - Compare architectures (e.g., CNN vs Vision Transformer, RNN vs Transformer)
 - Investigate failure cases and model interpretability
 - Build a robust training pipeline (data augmentation, regularization, hyperparameter tuning)
@@ -39,7 +39,7 @@ These are example directions to help you get started. Your final project should 
 #### 3. Systems & Optimization (CUDA-focused)
 - Optimize training or inference speed (profiling, batching, mixed precision)
 - Implement or analyze GPU acceleration techniques
-- Compare performance across frameworks (e.g., PyTorch vs PyTorch Lightning vs JAX)
+- Compare performance across frameworks (e.g., PyTorch vs PyTorch Lightning)
 - Memory optimization and scaling experiments
 
 #### 4. Edge / Efficient AI
@@ -48,20 +48,13 @@ These are example directions to help you get started. Your final project should 
 - Measure latency vs accuracy trade-offs
 - Design lightweight architectures for real-time inference
 
-#### 5. Interactive / Applied Projects
-- Build a conversational agent with a defined personality (e.g., a game-inspired character)
-  - Focus on control: prompting, fine-tuning, or retrieval augmentation
-  - Optional: optimize for low-latency or edge deployment
-- Create an AI-assisted tool (e.g., for image, text, or audio processing)
-- Combine deep learning with a simple user interface or application layer
-
-#### 6. Research / Exploration (optional)
+#### 5. Research / Exploration (optional)
 - Apply deep learning to a scientific or technical problem
 - Reproduce and analyze a selected research paper
 - Explore unconventional or interdisciplinary ideas
 
 ### Submission - fill the form:
-> www.cshfhbs
+> [Project Topics](https://forms.office.com/e/JcyP1U5iDj?origin=lprLink)
 
 One person per team should submit:
 - Project title  
@@ -76,8 +69,8 @@ Repositories should be created early. They will not be monitored during developm
 - If needed, a kickoff meeting will be scheduled in early May  
 
 Project meetings:
-- **Midpoint meeting** — short progress update 
-- **Final meeting** — project presentations (June, exact date TBD)
+- **Midpoint meeting** — short progress update (25.05.2026)
+- **Final meeting** — project presentations (22.06.2026)
 
 ### Final evaluation
 - **Presentation**: max 5 minutes + short Q&A  
