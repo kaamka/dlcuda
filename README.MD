@@ -145,6 +145,9 @@ source dl_course/bin/activate
 ``` 
 ssh <login>@taurus.fis.agh.edu.pl 
 ```
+
+> ⚠️ Skip Step 1. if you are inside AGH network!
+
 ### Step 2. 
 
 a) D10-204 check 01 - 18 (at least one of them should work)
@@ -152,11 +155,22 @@ a) D10-204 check 01 - 18 (at least one of them should work)
 ssh <login>@stud204-16 
 ```
 
-b) gpu-hub
+b) gpu-hub (via terminal)
 
 ```
 ssh <login>@gpu-hub
 ```
-⚠️ Skip Step 1. if you are inside AGH network!
 
----
+b') gpu-hub (via link below - convenient if you work with Jupyter Notebooks)
+
+https://agile.fis.agh.edu.pl/hub
+
+> Conda environment on gpu-hub
+
+There are Conda environments already installed and available for use.
+
+- Example: `monai_hface_accelerate` (the same environment used during workshops)
+- To see available environments:
+  ```bash
+  conda env list
+  ```
